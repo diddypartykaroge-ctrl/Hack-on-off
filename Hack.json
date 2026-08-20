@@ -18,7 +18,7 @@
         "Allowoffline": true,
         "enabled": true,
         "features": {
-            "mapHack": false,
+            "mapHack": true,
             "holowear": true,
             "liveScore": true,
             "droneView": true
