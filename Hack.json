@@ -11,10 +11,10 @@
         }
     },
     {
-        "device_id": "568bbb67b72249351718e7ce8819950efb5dce86fa2ecc84886373718b7f27b6",
+        "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "31-12-2026",
+        "expirydate": "19-9-2026",
         "Allowoffline": true,
         "enabled": true,
         "features": {
