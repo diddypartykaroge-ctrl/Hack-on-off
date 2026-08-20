@@ -11,14 +11,14 @@
         }
     },
     {
-        "device_id": "your_device_id_here_1",
+        "device_id": "b4ebb9a38a4d2bc1",
         "username": "user1",
         "password": "pass123",
         "expirydate": "31-12-2026",
         "Allowoffline": true,
         "enabled": true,
         "features": {
-            "mapHack": true,
+            "mapHack": false,
             "holowear": true,
             "liveScore": true,
             "droneView": true
