@@ -35,7 +35,7 @@
             "mapHack": true,
             "holowear": true,
             "liveScore": true,
-            "droneView"  true
+            "droneView":  true
         }
     }
 ]
