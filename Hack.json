@@ -25,17 +25,17 @@
         }
     },
     {
-        "device_id": "your_device_id_here_2",
+        "device_id": "de4526f9c96b235a7736e817926562233dad66ed2a4f056b24201b18d0d760d9",
         "username": "user2",
         "password": "pass456",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": {
             "mapHack": true,
             "holowear": true,
-            "liveScore": false,
-            "droneView": false
+            "liveScore": true,
+            "droneView"  true
         }
     }
 ]
