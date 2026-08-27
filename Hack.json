@@ -40,8 +40,8 @@
     },
     {
         "device_id": "7683322d7616d08ce87d52e5ae5bf56bcd035234fee9e8f6a92145b030a829a9",
-        "username": "NiceTryDiddy",
-        "password": "WellPlayedDrake",
+        "username": "user1",
+        "password": "pass123",
         "expirydate": "4-09-2026",
         "Allowoffline": false,
         "enabled": true,
