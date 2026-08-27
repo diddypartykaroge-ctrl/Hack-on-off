@@ -35,7 +35,21 @@
             "mapHack": true,
             "holowear": true,
             "liveScore": true,
-            "droneView":  true
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "7683322d7616d08ce87d52e5ae5bf56bcd035234fee9e8f6a92145b030a829a9",
+        "username": "NiceTryDiddy",
+        "password": "WellPlayedDrake",
+        "expirydate": "4-09-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
         }
     }
 ]
