@@ -79,5 +79,19 @@
             "liveScore": true,
             "droneView": true
         }
+    },
+    {
+        "device_id": "c1168139164026a9a974f8e0f590fb30fc457043c9a5027b25d7e696c7138596",
+        "username": "user6",
+        "password": "pass1415",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
     }
 ]
