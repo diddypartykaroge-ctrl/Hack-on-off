@@ -1,4 +1,4 @@
-true  {
+falsee  {
         "device_id": "global",
         "maintenance": false,
         "announcement": "Welcome to Zaid Mods!",
@@ -70,7 +70,7 @@ true  {
         "username": "user5",
         "password": "pass1213",
         "expirydate": "15-09-2026",
-        "Allowoffline": false,
+        "Allowoffline" true,
         "enabled": true,
         "features": {
             "mapHack": true,
