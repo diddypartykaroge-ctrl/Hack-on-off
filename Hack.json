@@ -110,8 +110,36 @@
     },
     {
         "device_id": "9370f613cf19b5842fff3cd5068a7d0ae131388c14e76598d9529eba0406e01e",
-        "username": "NiceTryDiddy",
-        "password": "WellPlayedDrake",
+        "username": "user7",
+        "password": "pass1819",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "Fd2c1bacdc4698cbfd126aaaeee974dc3a565affe0007170e5f38b1585023ef6",
+        "username": "user8",
+        "password": "pass2021",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "73350e52e1e54efd236b93e25af79c9e06235efbd863cb85d007f5e7aca1c25d",
+        "username": "Bush",
+        "password": "kalagenda",
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
@@ -123,4 +151,3 @@
         }
     }
 ]
-
