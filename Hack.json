@@ -154,7 +154,21 @@
         "device_id": "e0822c437961731562003298492d34c55688304bab5a864e608170fc288b8838",
         "username": "user9",
         "password": "pass2223",
-        "expirydate": "15-09-2026",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "568bbb67b72249351718e7ce8819950efb5dce86fa2ecc84886373718b7f27b6",
+        "username": "user10",
+        "password": "pass2425",
+        "expirydate": "15-10-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": {
