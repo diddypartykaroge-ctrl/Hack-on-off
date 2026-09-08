@@ -107,5 +107,20 @@
             "liveScore": true,
             "droneView": true
         }
+    },
+    {
+        "device_id": "9370f613cf19b5842fff3cd5068a7d0ae131388c14e76598d9529eba0406e01e",
+        "username": "NiceTryDiddy",
+        "password": "WellPlayedDrake",
+        "expirydate": "15-09-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
     }
 ]
+
