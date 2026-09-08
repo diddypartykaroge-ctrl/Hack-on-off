@@ -1,4 +1,5 @@
-{
+[
+    {
         "device_id": "global",
         "maintenance": false,
         "announcement": "Welcome to Zaid Mods!",
@@ -13,7 +14,7 @@
         "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "15-10-2026",
+        "expirydate": "19-9-2026",
         "Allowoffline": true,
         "enabled": true,
         "features": {
@@ -70,7 +71,7 @@
         "username": "user5",
         "password": "pass1213",
         "expirydate": "15-09-2026",
-        "Allowoffline" true,
+        "Allowoffline": false,
         "enabled": true,
         "features": {
             "mapHack": true,
@@ -95,9 +96,9 @@
     },
     {
         "device_id": "c48f30ee8316359e3b445b72b7f346316918ca768c8edc682a37435d1903e292",
-        "username": "user69",
-        "password": "pass69",
-        "expirydate": "15-10-2026",
+        "username": "user7",
+        "password": "pass1617",
+        "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": {
@@ -107,4 +108,4 @@
             "droneView": true
         }
     }
-
+]
