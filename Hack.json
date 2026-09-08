@@ -1,5 +1,4 @@
-[
-    {
+true  {
         "device_id": "global",
         "maintenance": false,
         "announcement": "Welcome to Zaid Mods!",
@@ -14,7 +13,7 @@
         "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "19-9-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": true,
         "enabled": true,
         "features": {
