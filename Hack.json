@@ -13,7 +13,7 @@
     {
         "device_id": "trial",
         "trial": true,
-        "username": "Pachi",
+        "username": "drake",
         "password": "diddy",
         "trial_hours": 6,
         "enabled": true,
