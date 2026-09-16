@@ -11,32 +11,13 @@
         }
     },
     {
-        "device_id": "trial",
-        "trial": true,
-        "username": "drake",
-        "password": "diddy",
-        "trial_hours": 6,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
         "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
         "expirydate": "19-9-2026",
         "Allowoffline": true,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "de4526f9c96b235a7736e817926562233dad66ed2a4f056b24201b18d0d760d9",
@@ -45,12 +26,7 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "7e83322d7616d08ce87d52e5ae5bf56bcd035234fee9e8f6a92145b030a829a9",
@@ -59,12 +35,7 @@
         "expirydate": "6-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "2854fff8189f4d49a3789d31eeeafce2092130b02f016b02733804caf69d879c",
@@ -73,12 +44,7 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "b4ebb9a38a4d2bc1",
@@ -87,12 +53,7 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "c1168139164026a9a974f8e0f590fb30fc457043c9a5027b25d7e696c7138596",
@@ -101,12 +62,7 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "c48f30ee8316359e3b445b72b7f346316918ca768c8edc682a37435d1903e292",
@@ -115,12 +71,7 @@
         "expirydate": "30-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "9370f613cf19b5842fff3cd5068a7d0ae131388c14e76598d9529eba0406e01e",
@@ -129,12 +80,7 @@
         "expirydate": "15-11-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "fd2c1bacdc4698cbfd126aaaeee974dc3a565affe0007170e5f38b1585023ef6",
@@ -143,12 +89,7 @@
         "expirydate": "15-11-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "73350e52e1e54efd236b93e25af79c9e06235efbd863cb85d007f5e7aca1c25d",
@@ -157,12 +98,7 @@
         "expirydate": "15-09-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "e0822c437961731562003298492d34c55688304bab5a864e608170fc288b8838",
@@ -171,12 +107,7 @@
         "expirydate": "15-11-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     },
     {
         "device_id": "568bbb67b72249351718e7ce8819950efb5dce86fa2ecc84886373718b7f27b6",
@@ -185,11 +116,6 @@
         "expirydate": "15-10-2026",
         "Allowoffline": false,
         "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     }
 ]
