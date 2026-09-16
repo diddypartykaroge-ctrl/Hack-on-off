@@ -11,6 +11,20 @@
         }
     },
     {
+        "device_id": "trial",
+        "trial": true,
+        "username": "Pachi",
+        "password": "diddy",
+        "trial_hours": 6,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
         "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
@@ -168,7 +182,7 @@
         "device_id": "568bbb67b72249351718e7ce8819950efb5dce86fa2ecc84886373718b7f27b6",
         "username": "user10",
         "password": "pass2425",
-        "expirydate": "15-12-2026",
+        "expirydate": "15-10-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": {
