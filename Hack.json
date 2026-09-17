@@ -95,7 +95,7 @@
         "device_id": "73350e52e1e54efd236b93e25af79c9e06235efbd863cb85d007f5e7aca1c25d",
         "username": "Bush",
         "password": "kalagenda",
-        "expirydate": "15-09-2026",
+        "expirydate": "15-12-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
