@@ -50,7 +50,7 @@
         "device_id": "b4ebb9a38a4d2bc1",
         "username": "user5",
         "password": "pass1213",
-        "expirydate": "15-09-2026",
+        "expirydate": "15-12-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
