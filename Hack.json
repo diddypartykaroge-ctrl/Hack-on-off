@@ -126,5 +126,14 @@
         "Allowoffline": false,
         "enabled": true,
         "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
+    },
+    {
+        "device_id": "dd8b14b25d1c4a220378450520fffa36ac9424c686ce5130f8f9c8be59ebde4f",
+        "username": "user13",
+        "password": "pass2829",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
     }
 ]
