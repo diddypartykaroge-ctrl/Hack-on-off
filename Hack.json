@@ -14,7 +14,7 @@
         "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "30-9-2026",
+        "expirydate": "16-10-2026",
         "Allowoffline": true,
         "enabled": true,
         "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
@@ -68,7 +68,7 @@
         "device_id": "c48f30ee8316359e3b445b72b7f346316918ca768c8edc682a37435d1903e292",
         "username": "user69",
         "password": "pass69",
-        "expirydate": "30-09-2026",
+        "expirydate": "16-010-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": { "mapHack": true, "holowear": true, "liveScore": true, "droneView": true }
