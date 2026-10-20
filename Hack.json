@@ -290,18 +290,32 @@
             "droneView": true
         }
     },
-{
-    "device_id": "53383d50b17aa61bcdcd777e7f0cb1b0a61eb233321bd3ebab0998c0bc13213b",
-    "username": "chut69",
-    "password": "lund67",
-    "expirydate": "20-11-2026",
-    "Allowoffline": false,
-    "enabled": true,
-    "features": {
-        "mapHack": true,
-        "holowear": true,
-        "liveScore": true,
-        "droneView": true
+    {
+        "device_id": "53383d50b17aa61bcdcd777e7f0cb1b0a61eb233321bd3ebab0998c0bc13213b",
+        "username": "chut69",
+        "password": "lund67",
+        "expirydate": "20-11-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "2a51dc5674832241710b4cb24701c70d2bea9f514ae27ad9b5e733d7fe16337b",
+        "username": "8729",
+        "password": "6518",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
     }
-}
-]
+        ]
