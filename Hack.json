@@ -1,3 +1,4 @@
+
 [
     {
         "device_id": "global",
@@ -309,6 +310,34 @@
         "username": "8729",
         "password": "6518",
         "expirydate": "30-10-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "1f292317cc1e72c866318090480dd6b0207789262464b14cf3db628f91d6859d",
+        "username": "user19",
+        "password": "CHANGE_ME_19",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false,
+        "enabled": true,
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "756be6c9d171ec9e2bf986d7d80d5347e7d0df72ea47fc103037079a85ff2b67",
+        "username": "user20",
+        "password": "CHANGE_ME_20",
+        "expirydate": "15-12-2026",
         "Allowoffline": false,
         "enabled": true,
         "features": {
