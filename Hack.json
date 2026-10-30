@@ -1,9 +1,22 @@
-
 [
     {
         "device_id": "global",
         "maintenance": false,
         "announcement": "Welcome to Zaid Mods!",
+        "features": {
+            "mapHack": true,
+            "holowear": true,
+            "liveScore": true,
+            "droneView": true
+        }
+    },
+    {
+        "device_id": "trial",
+        "username": "82637",
+        "password": "18627",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true,
+        "enabled": true,
         "features": {
             "mapHack": true,
             "holowear": true,
@@ -347,4 +360,4 @@
             "droneView": true
         }
     }
-        ]
+]
