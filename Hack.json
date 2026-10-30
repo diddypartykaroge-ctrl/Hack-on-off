@@ -15,7 +15,7 @@
         "username": "82637",
         "password": "18627",
         "expirydate": "31-12-2026",
-        "Allowoffline": true,
+        "Allowoffline": false,
         "enabled": true,
         "features": {
             "mapHack": true,
